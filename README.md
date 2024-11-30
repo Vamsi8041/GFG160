@@ -1,2 +1,1 @@
-# GFG160
-Solutions for 160 problems from GeeksforGeeks. This repository contains clean and organized code implementations for each problem.
+Repository containing code implementations for the GFG 160 Problems. Structured by chapter for easy navigation.
